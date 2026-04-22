@@ -1,4 +1,4 @@
-# Markaz Self-Help Books Scraper
+# Markaz Dropshipping Products Scraper
 
 > Scrapes product data from markaz.app — Self-Help Learning Books category.
 > Available in both **Desktop GUI** and **CLI** modes.
